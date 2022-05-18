@@ -1,0 +1,17 @@
+web page example
+
+# what is url??
+
+>> it stands for uniform resource locator and it is a website address
+
+> example of url
+
+>> http://teach.park.edu/~jdean240/lecture/weather.html
+
+in above example http refers to the hypertext transfer protocol
+                 :// refers to a path
+                 teach refers to web server
+                 park.edu refers to domain name
+                 next we will find directory and subdirectory that indicate where weather.html will be found on web server computer
+
+                 and ~ indicate home directory
