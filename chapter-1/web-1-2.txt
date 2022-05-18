@@ -1,0 +1,29 @@
+Creating a website
+
+# what is website??
+
+>> it is a collection of related webpages that are stored on web server computer
+
+# what is web server??
+
+>> a computer system that enables the user to access webpages stored on web server computer
+
+# what are the things used to make a website??
+
+>> 1. Text editors
+   2. pulishing tools
+   3. web hosting service
+   4. browser
+
+# what is the name of auto-complete mechanism that web-authoring tool used??
+
+>> picklist or intellisense
+
+# what is publishing mean??
+
+>> it means  uploading webpages on web server computer  so other can access it on the web.
+
+
+# what is browser
+
+>> a piece of software that enables user to retrive and view webpage
