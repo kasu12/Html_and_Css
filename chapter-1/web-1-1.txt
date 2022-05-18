@@ -1,0 +1,21 @@
+Introduction 
+
+# what is web (World Wide Web) ??
+
+>> it is a collection of webpages.
+
+# what is webpage??
+
+>> it is a single pages in website
+
+# what are things that website can do??
+
+>> at least they can display texts or pictures
+
+# what is webpage address??
+
+>> it's a location where webpage will be found on the internet
+
+# what is internet??
+
+>> it is a collection of many computer that are connected throughout the World
