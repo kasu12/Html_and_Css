@@ -1,0 +1,120 @@
+web page example
+
+# what is url??
+
+>> it stands for uniform resource locator and it is a website address
+
+> example of url
+
+>> http://teach.park.edu/~jdean240/lecture/weather.html
+
+in above example http refers to the hypertext transfer protocol
+                 :// refers to a path
+                 teach refers to web server
+                 park.edu refers to domain name
+                 next we will find directory and subdirectory that indicate where weather.html will be found on web server computer
+
+                 and ~ indicate home directory
+
+
+HTML Tags
+
+# how to implement html element for a web page
+
+>> to implement html element we need to use tags.
+ > example if we want to implement a strong element we wiil use "<strong>" tag, <strong> wakanda  <strong>
+
+# why are we call html mark up language ??
+
+>> because it marks up a document by surrounding parts of its content with tags
+ > html standas Hypertext Markup Language
+ > the “hyper” in “Hypertext” refers to HTML’s ability to implement hyperlinks
+ > hyperlink (or link for short) is where you click on text or an image in order to jump to another web page.
+
+>> Most, but not all, HTML tags come in pairs with a start tag and an end tag
+
+# what are Headings ??
+
+>> they are builtin elements which are used to create title in html code
+ > they are 6 headings which starts frmo h1 - h6. we call "h" tag's type.
+ > the element h1 generates the largest heading, and h6 generates the smallest
+ > when we use tags if we don't add angle bracket we call them elements
+
+# how many types of element are there
+
+>> there are two types of elements. those are container elements and void elements.
+ > a container element has a start tag and an ending tag and it contains content between its two tags
+ > On the other hand, a void element has just one tag, and its content is stored within the tag.
+
+# what is soure code??
+
+>> it is a code which a programmer will wright
+
+# what is executable code ??
+
+>> it is low-level code that the computer hardware understands and executes (runs)
+
+# what is doctype ??
+
+>> the doctype construct is considered to be an instruction also tells the browser what type of document the webpage is. and it goes at the top of every web page
+
+>> <!DOCTYPE html> indicates that the document is an HTML document
+
+# which elements form the basic structure of web page??
+
+>> html,head and body elements. and we call those elements  structural elements
+ > the doctype instruction plus the structural elements form the skeleton code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
