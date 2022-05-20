@@ -1,0 +1,28 @@
+**HTML Attributes
+
+
+ # what is attribute??
+
+ >> a technique used to provide information about the element
+
+>> we use " lang="eng" " attribute to tell the browser what type of language we are using.
+
+# what is the purpose of writting elements language??
+
+>> 1. help search engines find web pages that use a particular language.
+ > 2. help spell-checker and grammar-checker tools work more effectively.
+   3. help browwe sers use appropriate fonts. 
+   4. Help speech synthesizers pronounce words correctly 
+
+# what do we mean by semantic element??
+
+>> it means that an element that have meaning
+
+>> in meta element we must use " charset="utf-8" " attribute to tell the browser what type of encoding we are using.
+
+# what will happen if we omit " charset="utf-8" "
+
+>> our web page might work because all browser assume charset attribute utf-8 by default. but there will be big chance to our character to be interpreted incorrectly
+
+>> most of the time we use name attribute in meta element to specifie the type of information that’s
+being provided
