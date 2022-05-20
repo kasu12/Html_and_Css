@@ -1,0 +1,18 @@
+**title Element
+
+# where should we put our title
+
+>> inside head element within "<title>" tag
+ > in head element we should first place "<meta>" tag then we can place our title using "<title>" tag
+ > we always have to add title in head element
+
+# what is the purpose of title??
+
+>> it have two main purposes
+ 1. it give documentation for someone trying to maintain your page
+ 2. it help search engines to find your web page
+
+# what is search engine
+
+>> it is a software that search for user-specified content and it will return link of page that contain the requested information
+ > example:- google, yahooo, DuckDuckGo
