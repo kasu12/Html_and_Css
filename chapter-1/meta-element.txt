@@ -1,0 +1,8 @@
+** meta Element
+
+# what is the use of "<meta>" element
+
+>> provide information about the page 
+ > and it is also a void element
+
+
