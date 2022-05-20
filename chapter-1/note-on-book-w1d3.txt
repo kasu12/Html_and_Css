@@ -1,0 +1,77 @@
+**Structural Elements
+
+# what is soure code??
+
+>> it is a code which a programmer will wright
+
+# what is executable code ??
+
+>> it is low-level code that the computer hardware understands and exe
+cutes (runs)
+
+# what is doctype ??
+
+>> the doctype construct is considered to be an instruction also tells the browser what type of document the webpage is. and it goes at the top of every web page
+
+>> <!DOCTYPE html> indicates that the document is an HTML document
+
+# which elements form the basic structure of web page??
+
+>> html,head and body elements. and we call those elements  structural elements
+ > the doctype instruction plus the structural elements form the skeleton code
+
+**title Element
+
+# where should we put our title
+
+>> inside head element within "<title>" tag
+ > in head element we should first place "<meta>" tag then we can place our title using "<title>" tag
+ > we always have to add title in head element
+
+# what is the purpose of title??
+
+>> it have two main purposes
+ 1. it give documentation for someone trying to maintain your page
+ 2. it help search engines to find your web page
+
+# what is search engine
+
+>> it is a software that search for user-specified content and it will return link of page that contain the requested information
+ > example:- google, yahooo, duck-duck-go
+
+** meta Element
+
+# what is the use of "<meta>" element
+
+>> provide information about the page 
+ > and it is also a void element
+
+
+ HTML Attributes
+
+
+ # what is attribute??
+
+ >> a technique used to provide information about the element
+
+>> we use " lang="eng" " attribute to tell the browser what type of language we are using.
+
+# what is the purpose of writting elements language??
+
+>> 1. help search engines find web pages that use a particular language.
+ > 2. help spell-checker and grammar-checker tools work more effectively.
+   3. help browwe sers use appropriate fonts. 
+   4. Help speech synthesizers pronounce words correctly 
+
+# what do we mean by semantic element??
+
+>> it means that an element that have meaning
+
+>> in meta element we must use " charset="utf-8" " attribute to tell the browser what type of encoding we are using.
+
+# what will happen if we omit " charset="utf-8" "
+
+>> our web page might work because all browser assume charset attribute utf-8 by default. but there will be big chance to our character to be interpreted incorrectly
+
+>> most of the time we use name attribute in meta element to specifie the type of information that’s
+being provided

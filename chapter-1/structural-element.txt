@@ -1,0 +1,22 @@
+Structural Elements
+
+# what is soure code??
+
+>> it is a code which a programmer will wright
+
+# what is executable code ??
+
+>> it is low-level code that the computer hardware understands and exe
+cutes (runs)
+
+# what is doctype ??
+
+>> the doctype construct is considered to be an instruction also tells the browser what type of document the webpage is. and it goes at the top of every web page
+
+>> <!DOCTYPE html> indicates that the document is an HTML document
+
+# which elements form the basic structure of web page??
+
+>> html,head and body elements. and we call those elements  structural elements
+ > the doctype instruction plus the structural elements form the skeleton code
+
