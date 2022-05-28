@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ 
+ <body>
+
+    <p lang="spa">La vanidad es tan fantastica, que hasta nos induce a preocuparnos de lo que pensaran de
+        nosotros una vez muertos y enterrados.</p>
+ </body>
+ 
+</html>
