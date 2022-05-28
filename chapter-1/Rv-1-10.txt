@@ -1,0 +1,1 @@
+11. it will align the paragraph to center
