@@ -1,0 +1,9 @@
+1.2 Creating a Website
+
+ 1. it is a a computer system that enables user to access webpage stored on webserver computer.
+ 
+ 2. Picklist and WYSIWYG
+ 
+ 3. opensource
+ 
+ 
