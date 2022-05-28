@@ -1,0 +1,11 @@
+https :- is a protocol
+
+mars :- web server computer
+
+jpl.nasa.gov:- domain name
+
+msl/images :- path that we will find our file
+
+
+PIA16082_Mitrofanov1F-thm.jpg :- our fie.
+
