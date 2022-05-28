@@ -1,0 +1,1 @@
+a container elemet is an element which have starting and ending tag while void element have only starting tag.
