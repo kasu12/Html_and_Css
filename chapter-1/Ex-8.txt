@@ -1,0 +1,2 @@
+ we will use "<p>" if the text considered like paragraph and we will use "<div>" if the text is not considered like paragraph
+
