@@ -1,0 +1,10 @@
+a. <strong > tag must be written before closing </p> tag
+
+b. <body>
+     <p>
+	I hate when I'm studying and a velociraptor throws bananas at me.
+	Does that happen to anyone else?
+	<strong>I hope not!</strong>
+     </p>
+	
+   </body>
