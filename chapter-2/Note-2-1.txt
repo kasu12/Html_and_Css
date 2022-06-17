@@ -1,0 +1,7 @@
+  Introduction
+
+* In this chapter we will cover some additional HTML elements, so that our web pages can be more expressive
+
+* we will use use standard coding-style conventions, so our code will be acceptable to the web community as a whole.
+
+* At the end of the chapter, we take a break from HTML elements and introduce character references

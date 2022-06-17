@@ -1,0 +1,5 @@
+we have to use appropriate tags for our text in oreder to describe our page 
+
+# why is it good practice to describe web page content accurately and fully?
+
+>> because it is part of the documentation  and documentation help programmers to understand and maintain the page.

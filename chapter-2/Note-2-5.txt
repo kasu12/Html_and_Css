@@ -1,0 +1,23 @@
+# what is containership rule??
+
+>> it a rule that tell whether a container must/msutn't contain inside of it
+ example:-for example, the head container must contain a title element,and a p container must not contain a div container
+
+ content model categories 
+
+>> flow content categories: blockquote, div, hr, p, pre, script, sup.
+
+>> phrasing category: abbr, b, br, cite, code, del, dfn, em, i, ins, kbd, mark, q, s, samp, small, span, strong, sub, sup, time, u, var, wbr
+
+>> embedded category:- includes elements that refer to a resource that’s separate from the
+current web page
+ >example: audio, canvas, iframe, img, and video
+
+>> interactive category:- includes elements that are intended for user interaction
+ >example: button, input, select, textarea
+
+>> heading category:- includes elements that define a header for a group of related content.
+ >example: h1, h2, h3, h4, h5, h6
+
+>> sectioning category:- includes elements that define a group of related content
+ >example: article, aside, nav, section

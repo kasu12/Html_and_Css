@@ -1,0 +1,13 @@
+HTML Coding Conventions
+
+before we publish our website on the web we have to test it in different browser
+
+if we use proper coding style or not browsers will treat that code the same as code with proper newlines and indentations
+
+some coding conventions are as follow
+
+>> For every container element, include both a start tag and an end tag. So even though it’s legal to omit a p element’s end tag, don’t do it.
+
+>> Use lowercase for all tag names (e.g., meta) and attributes (e.g., name).
+
+>> For attribute-value assignments, surround the value with quotes, and omit spaces around the equals sign.

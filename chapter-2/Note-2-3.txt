@@ -1,0 +1,13 @@
+Comments
+
+# what are Comments??
+
+>> Comments are words that humans read but the computer skips
+
+# when should we use Comment??
+
+>> whenever information is needed to clarify something about nearby HTML code
+
+# how to create them??
+
+>> using "< !-- " then we will insert comment text after that we will close our comment text with "-->"
