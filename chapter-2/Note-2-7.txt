@@ -1,0 +1,52 @@
+  blockquote Element
+
+# what is blockquote element
+
+>> it is a block element that used to express words from a text or speech written or spoken by another person
+
+# when should we use blockquote element??
+
+>>when we have a quotation that is too long to embed within surrounding text 
+
+  cite Attribute
+
+# what is the pupose of site attribute
+
+>> The purpose of the cite attribute is to document where the quote can be found on the Internet.
+>> The cite attribute’s value must be in the form of a URL
+
+  block formatting
+
+# what is block formatting??
+
+>> Block formatting is a coding-style convention where the start and end tags go on their own lines and the enclosed text is indented
+
+  Displaying a Web Page Without a Web Server
+  
+>> if we want a web page to be accessible to everyone on the Web,we will need to upload its .html file to a web server. But for a quick test, it’s often easier to generate a web page by just double clicking on its file.
+
+  Whitespace Collapsing
+
+>> Whitespace refers to characters that are invisible when displayed on the browser window
+>> The most common whitespace characters are the blank, newline, and tab characters
+>> if your HTML code contains consecutive blank spaces, newlines, or tabs, the browser will display the web page with only one whitespace character (usually a blank space).
+
+  pre Element
+
+>> pre elements are html element that used to preserve whitespace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
